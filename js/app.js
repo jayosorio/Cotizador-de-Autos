@@ -2,9 +2,9 @@
 
 // Constructores
 function Seguro(marca, year, tipo) {
-    this.marca,
-        this.year,
-        this.tipo
+        this.marca = marca,
+        this.year = year,
+        this.tipo = tipo
 }
 
 // Realizar la cotizacion de los datos
